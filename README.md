@@ -1,0 +1,2 @@
+# Fruit-Managment-in-C
+Assigment but expanded on. Too lazy to finish Option 8. Took 2 days.
